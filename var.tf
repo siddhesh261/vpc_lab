@@ -18,3 +18,8 @@ variable "private_region" {
     type =string
 }
 
+variable "ci_dr" {
+    type =string
+}
+
+
